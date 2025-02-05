@@ -8,6 +8,8 @@ import AboutSec from './day2/AboutSec';
 import NavBarr from './day2/NavBarr';
 import ProductCard from './day2/ProductCard';
 import Footer from './day2/Footer';
+import FormAp from './day3/FormAp';
+import TableComponent from './day3/TableComponent';
 function App() {
   return (
 <>
@@ -16,12 +18,12 @@ function App() {
 <ConTent/>
 <HeroSec design={"flex-row-reverse"}/>
 <Products/> */}
-<NavBar/>
+{/* <NavBar/>
 <AboutSec/>
 <NavBarr/>
 <ProductCard/>
-{/* <Productss/> */}
-<Footer/>
+<Footer/> */}
+<FormAp/>
 </>
   );
 }

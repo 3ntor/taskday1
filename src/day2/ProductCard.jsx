@@ -1,11 +1,11 @@
 import React from 'react'
 import Productss from './Productss'
-import image1 from "..//assets/images/موبيل(1).jpeg"
-import image2 from "..//assets/images/ساعه.jpeg"
-import image3 from "..//assets/images/كرسي.jpeg"
+import image1 from "..//assets/images/mobile.jpeg"
+import image2 from "..//assets/images/watch.jpeg"
+import image3 from "..//assets/images/chair.jpeg"
 import image4 from "..//assets/images/coat.jpeg"
-import image5 from "..//assets/images/شنطه.jpeg"
-import image6 from "..//assets/images/كتاب.jpeg"
+import image5 from "..//assets/images/bag.jpeg"
+import image6 from "..//assets/images/book.jpeg"
 const Product =[
     {
         id: 1,
